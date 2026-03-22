@@ -1,1 +1,1 @@
-# RTA_SK
+# Analiza danych w czasie rzeczywistym
